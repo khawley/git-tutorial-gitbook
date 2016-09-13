@@ -78,6 +78,8 @@ Now we can see that the line changed from `Hello Git!` (marked in red and starti
 
 Lets add and commit this change before moving on.
 
+** It's important to note that `git add <filename>` will add _all_ the changes found in that file.
+
 ```
 $ git add hello_world.txt
 $ git commit -m "changing text to Hello World"
