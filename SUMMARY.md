@@ -16,4 +16,4 @@
 - [git log](./02_basic_commands/06_git_log.md)
 - [git show](./02_basic_commands/07_git_show.md)
 - [git reset](./02_basic_commands/08_git_reset.md)
-- [git checkout](./02_basic_commands/08_git_checkout.md)
+- [git checkout](./02_basic_commands/09_git_checkout.md)
