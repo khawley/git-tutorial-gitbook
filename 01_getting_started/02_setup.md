@@ -10,3 +10,5 @@ $ mkdir git_tutorial
 $ cd git_tutorial
 $ touch awesome_file
 ```
+
+![setup the folder](./images/setup.png)
