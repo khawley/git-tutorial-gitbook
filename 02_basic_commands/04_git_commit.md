@@ -22,6 +22,6 @@ A **commit** is like an entry into our git history that contains a set of change
 $ git commit -m "adding my awesome_file"
 ```
 
-![git commit](./images/git-commit-empty-awesome_file.md)
+![git commit](./images/git-commit-empty-awesome_file.png)
 
 You can see that this commit had 1 file added, and 0 insertions and deletions (because the file was empty).

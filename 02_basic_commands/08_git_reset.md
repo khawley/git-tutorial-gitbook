@@ -74,7 +74,7 @@ $ rm another_awesome_file
 $ git status
 ```
 
-![remove another_awesome_file](./image/rm-another_awesome_file.png)
+![remove another_awesome_file](./images/rm-another_awesome_file.png)
 
 
 ## Another Alias
