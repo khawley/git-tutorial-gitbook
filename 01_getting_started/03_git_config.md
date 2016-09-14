@@ -11,5 +11,5 @@ $ git config --global user.name "John Doe"
 $ git config --global user.email johndoe@example.com
 ```
 
-![git config](./images/git-config.md)
+![git config](./images/git-config.png)
 

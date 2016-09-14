@@ -8,6 +8,12 @@ In order to change our `git_tutorial` folder into a git **repository (repo)** we
 $ git init
 ```
 
+![git init](./images/git-init-cmd.png)
+
 If you do an `ls -la`, you'll see that a new directory has been added `.git`.
 
-![git init](./images/git-init.png)
+```
+$ la -la
+```
+
+![ls after git init](./images/git-init-result.png)
