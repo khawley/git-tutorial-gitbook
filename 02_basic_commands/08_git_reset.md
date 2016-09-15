@@ -21,7 +21,7 @@ $ git status
 
 Remember that `git add` puts the changes into a _staging area_.  The staging area has the changes we are _ready to commit_.
 
-If we changed our mind, and no longer wanted to _commit_ that text change, we can use `git reset HEAD <file>` to take it our of the staging area, and put it back into our working directory.
+If we changed our mind, and no longer wanted to _commit_ that text change, we can use `git reset HEAD <file>` to take it out of the staging area, and put it back into the working directory.
 
 If you look at the `git status` more closely, you'll even see this as a recommended option for unstaging.
 
