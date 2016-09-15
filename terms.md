@@ -20,9 +20,7 @@
 - **pull request/merge request** - a request created on the remote website (like GitHub) asking that changes you have made to your branch be merged into the main branch of the project.
 
 
-
-
-#  Commands
+#  Commands {#command_summary}
 - `git config` - used for adding/changing git configurations, such as your name or email that is used on commits
 - `git init` - command to add git tracking to your directory
 - `git status` - show the status of any untracked, unstaged, and staged in the repository.  Also displays the current branch name.

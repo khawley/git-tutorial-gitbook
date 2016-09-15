@@ -38,5 +38,7 @@
 
 ## Extras
 
+- [Git Terms](./terms.md#terms)
+- [Git Command Summary](./terms/#command_summary)
 - [git mv](./05_extras.md#git-mv)
 - [git rm](./05_extras.md#git-rm)
