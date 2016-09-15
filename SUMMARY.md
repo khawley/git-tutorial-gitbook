@@ -28,6 +28,13 @@
 
 ## Remotes
 
+- [git remote](./04_remotes/01_overview_git_remote.md)
+- [git clone](./04_remotes/02_git_clone.md)
+- [git fetch](./04_remotes/03_git_fetch.md)
+- [git pull](./04_remotes/04_git_pull.md)
+- [git push](./04_remotes/05_git_push.md)
+- [Pull Requests](./04_remotes/06_pull_requests.md)
+- [Contribution Workflow](./04_remotes/07_contribution_workflow.md)
 
 ## Extras
 
