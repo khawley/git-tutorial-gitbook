@@ -2,6 +2,8 @@
 
 `git pull` is a combination of `git fetch` and `git merge`.  It will grab the remote changes and merge them into your branch for you.
 
+`git pull <remote> <branch>` will pull in changes from the remote branch into your current branch.
+
 Its a good habit to `git pull` if you haven't in a while.  Its an especially good habit to pull `master` into a whatever feature branch you are working in, so that you're always up-to-date.
 
 Since we want to keep our `demo` branch in sync with `master`, we could run a fetch and merge, like these commands: 
@@ -16,3 +18,5 @@ Or we could use `git pull` as a combined command, adding the remote and branch n
 ```
 git pull origin master
 ```
+
+![git pull origin master](./images/git-pull-origin-master.png)
