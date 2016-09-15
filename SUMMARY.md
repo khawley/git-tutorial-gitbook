@@ -17,3 +17,19 @@
 - [git show](./02_basic_commands/07_git_show.md)
 - [git reset](./02_basic_commands/08_git_reset.md)
 - [git checkout](./02_basic_commands/09_git_checkout.md)
+
+## Branches
+
+- [Branches Overview](./03_branching/01_overview.md)
+- [git branch](./03_branching/02_git_branch.md)
+- [git merge](./03_branching/03_git_merge.md)
+- [merge conflicts](./03_branching/04_merge_conflicts.md)
+- [Rename or Delete Branchs](./03_branching/05_delete_rename_branch.md)
+
+## Remotes
+
+
+## Extras
+
+- [git mv](./05_extras.md#git-mv)
+- [git rm](./05_extras.md#git-rm)
