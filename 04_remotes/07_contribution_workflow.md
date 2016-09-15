@@ -80,12 +80,3 @@ If you don't have edit access to a repo, you'll need to fork first, but most of 
     
 
 6) Create a pull request from your remote + branch, to the source remote and branch.
-
-
-
----
-1) Clone + pull from remote
-2) create a new branch
-3) develop and commit on that branch
-4) before pushing, pull/merge master
-5) push branch for review
