@@ -39,4 +39,4 @@ For example, `git show a66d011bf8139e66f3b267bbb275854e91260f66` and `git show a
 
 We can also use the alias `HEAD` if we want to see the most recent commit, since `HEAD` is always a pointer to the most recent commit's hash.
 
-For example, `git show 379fca12162de3daa32ed878fed3c0652919af79` and `git show HEAD` will show the same commit.
+In this example, `git show 379fca12162de3daa32ed878fed3c0652919af79` and `git show HEAD` will show the same commit.
