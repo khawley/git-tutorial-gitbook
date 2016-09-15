@@ -28,3 +28,8 @@ This tutorial assumes a basic understanding of the command line.  For a guide to
 ## Created by
 
 This tutorial was a joint effort between [Kelsey Hawley](https://github.com/khawley) who was a beginner many years ago and [Nicholle James](https://github.com/oboechick) who was a beginner more recently.
+
+
+## Graphics
+
+Branching and Remote graphics were borrowed from [Atlassian's Git Tutorial](https://www.atlassian.com/git/tutorials/).  Which is a great deep dive for the intermediate + advanced.
