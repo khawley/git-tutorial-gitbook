@@ -35,7 +35,7 @@ $ git show a66d011bf8139e66f3b267bbb275854e91260f66
 
 It's interesting to note that these hashes are _so unique_ that you can use the first 8 characters when referencing a commit.
 
-For example, `git show a66d011bf8139e66f3b267bbb275854e91260f66` and `git show a66d011b` will show the same commit.
+In this example, `git show a66d011bf8139e66f3b267bbb275854e91260f66` and `git show a66d011b` will show the same commit.
 
 We can also use the alias `HEAD` if we want to see the most recent commit, since `HEAD` is always a pointer to the most recent commit's hash.
 
