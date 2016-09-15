@@ -32,4 +32,4 @@ This tutorial was a joint effort between [Kelsey Hawley](https://github.com/khaw
 
 ## Graphics
 
-Branching and Remote graphics were borrowed from [Atlassian's Git Tutorial](https://www.atlassian.com/git/tutorials/).  Which is a great deep dive for the intermediate + advanced.
+Branching and Remote graphics were borrowed from [Atlassian's Git Tutorial](https://www.atlassian.com/git/tutorials/), which is a great deep dive for the intermediate + advanced.

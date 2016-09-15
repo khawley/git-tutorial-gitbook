@@ -3,7 +3,7 @@
 **pull request** is a way of requesting that changes you have made be reviewed and added to the main branch of a project.  Most open source projects do not allow outside contributors to commit directly to `master`.  Instead, you would create a branch, make your changes, then request that your branch be merged into `master`.  You can only create a pull request by using a remote service like GitHub.  Some websites may call them _merge requests_ instead of _pull requests_.
 
 
-Let's create a pull request for the branch you named after yourself.  Go to the ![GitHub repository](https://github.com/khawley/git-tutorial-remote-demo-repo) again.
+Let's create a pull request for the branch you named after yourself.  Go to the [GitHub repository](https://github.com/khawley/git-tutorial-remote-demo-repo) again.
 
 ![github recent branches](./images/github-recent-branches.png)
 
