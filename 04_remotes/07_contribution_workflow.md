@@ -39,7 +39,7 @@ If you have collaboration access (the ability to push directly to the repo), thi
 
 ## Forking Access
 
-If you don't have edit access to a repo, you'll need to fork first, but most of your steps will look very similar.  You'll also have _two_ remotes here, your forked remote repo, and the original remote repo.
+If you don't have edit access to a repo, you'll need to fork first, but most of your steps will look very similar.  You'll also have _two_ remotes here, your forked remote repo (`origin`), and the original remote repo (we'll name `source`).
 
 1) Fork the project on GitHub.
 
