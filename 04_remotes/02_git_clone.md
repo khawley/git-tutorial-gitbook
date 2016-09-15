@@ -1,5 +1,25 @@
 # git clone
 
+## Forking at Home
+
+If you are part of a live workshop, please skip this part and move on to [cloning](#cloning).  For this workshop, we have added your names to the list of contributors for this repo, granting you push permissions.  This will allow you to experience the joys (and pains) of multiple collaborators working on a repo simultaneously.
+
+If you are at home, please follow the examples below to first _fork_ the repository.  Forking will create a remote copy in _your_ GitHub account and give you access to push to that repository.
+
+Make sure you are signed in, then click the _Fork_ button on the repo:
+
+![github fork button](./images/github-repo-fork-button.png)
+
+This will cause the original repo to be _cloned_ into your GitHub account.  You should a page like this:
+
+![repo forked](./images/repo-forked.png)
+
+Notice that the repo has your github username and then the name of the repo, with a line below stating that it was originally forked from a different owner's repo.
+
+Now you can continue onto the cloning section.  Just be sure to use your forked version when grabbing the cloning url.
+
+## Cloning {#cloning}
+
 On that page, click the big green "Clone or Download button" and then copy the link.
 
 ![clone link](./images/github-clone-link.png)
