@@ -6,6 +6,8 @@ It will cover the difference between Git & GitHub, committing, branching, pushin
 
 This tutorial assumes a basic understanding of the command line.  For a guide to command line basics, see my other tutorial [here](https://github.com/khawley/commandline_gitbook).
 
+To view this as a GitBook as it was intended, you can read it [here](https://www.gitbook.com/book/khawley/git-github-basics-tutorial/details)
+
 ## Commands Covered in this Tutorial
 
 - `git init`
