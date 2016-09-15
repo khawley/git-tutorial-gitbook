@@ -57,7 +57,7 @@ $ git status
 
 ![git reset to previous commit](./images/git-reset-previous-commit.png)
 
-If you look at the status, you'll see that `nother_awesome_file` is in our _untracked files_.
+If you look at the status, you'll see that `another_awesome_file` is in our _untracked files_.
 
 If we look at the log, we'll see that the commit is gone too and the `HEAD` is now pointing to the commit we reset to.
 
